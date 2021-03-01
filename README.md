@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my personal portfolio website! It's a work in progress but you can check it out at this [link](https://lh-tech-portfolio.web.app/) and let me know if you have any feedback as well! (Just a heads up the contact form does not work yet)
+- 🔭 I’m currently working on my personal portfolio website! It's a work in progress but you can check it out at this [link](https://lh-tech-portfolio.web.app/). (Just a heads up the contact form does not work yet)
 - 🌱 I’m currently learning PHP and back-end development.
 - 👯 I’m looking to collaborate on any projects for social good.
 - 📫 How to reach me: lovpreethansra@gmail.com
