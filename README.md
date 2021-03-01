@@ -24,5 +24,5 @@ Here are some ideas to get you started:
  ⚡ Fun fact: I love going for runs with my dog<br><br>
  
  <p align="center">
- <img src="https://github.com/lhansra/lhansra/blob/main/chill.jpg" alt="my pup" width="200px"/><br>
+ <img src="https://github.com/lhansra/lhansra/blob/main/chill.jpg" alt="my pup" width="250px"/><br>
  </p>
