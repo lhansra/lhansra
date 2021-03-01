@@ -1,5 +1,5 @@
 ### Hello, I'm Lovpreet
-<img src="https://github.com/lhansra/lhansra/blob/main/IMG_3314.jpg" alt="me" width="200px"/><br>
+<img src="https://github.com/lhansra/lhansra/blob/main/selfie.jpg" alt="me" width="200px"/><br>
 <!--
 **lhansra/lhansra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
  📫 How to reach me: lovpreethansra@gmail.com<br>
  😄 Pronouns: she/her/hers<br>
  ⚡ Fun fact: I love going for runs with my dog<br><br>
- <img src="https://github.com/lhansra/lhansra/blob/main/IMG_3348.jpg" alt="my pup" width="200px"/><br>
+ <img src="https://github.com/lhansra/lhansra/blob/main/pup.jpg" alt="my pup" width="200px"/><br>
