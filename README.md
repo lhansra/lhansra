@@ -1,4 +1,4 @@
-### Hello, I'm Lovpreet
+## Hello, I'm Lovpreet
 <p align="center">
 <img src="https://github.com/lhansra/lhansra/blob/main/selfie.jpg" alt="me" width="250px"/><br>
 </p>
